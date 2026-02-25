@@ -3,4 +3,4 @@ kind: Namespace
 metadata:
   annotations:
     configsync.gke.io/cluster-name-selector: acm-demo
-  name: team-2
+  name: test-namespace
